@@ -1,5 +1,7 @@
 # PLGA-Model
 
+Collaborated with Dr. Anil Shrirao
+
 ###### Description ######
 
 This is a devised mathematical MATLAB model simulating the drug release profile of lidocaine from PLGA nanoparticles over time.
